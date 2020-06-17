@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * partition - find partition for quicksort used Lomuto scheme
+ * partitionss - find partition for quicksort used Lomuto scheme
  * @array: array
  * @lo: lowest index of the partition
  * @hi: highest index of the partition
